@@ -4,14 +4,16 @@
 This repository contains three Jupyter notebooks for processing fluorescence signals/images.
 
 1. Axon_Length_Area_Calculation.ipynb    
-- reports the lengths and areas of four different axons.   
+  - reports the lengths and areas of four different axons.   
+
 
 2. Edge_Detection.ipynb   
-- detects and colors the contour lines of spreaded responses.   
+  - detects and colors the contour lines of spreaded responses.   
+
 
 3. Light_Intensity_Detection.ipynb
-- captures depolarization or hyperpolarization phenomena.
-
+  - captures depolarization or hyperpolarization phenomena.
+  
 
 ## Citation
 
